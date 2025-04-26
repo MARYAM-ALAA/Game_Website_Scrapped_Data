@@ -23,9 +23,9 @@ GamesSpider is a Scrapy-powered web crawler that collects game data from the Oxy
 
 3. Install the required packages:
    ```bash
-  pip install scrapy
+    pip install scrapy
+    ```
   
-
 ## 📋 Usage
 
   Run the spider with:
